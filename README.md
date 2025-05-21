@@ -1,4 +1,3 @@
-# backend-narabaca
 # 📚 Narabaca Backend API
 
 **Narabaca** adalah aplikasi edukasi interaktif yang membantu anak-anak belajar membaca dengan cara yang menyenangkan. Proyek ini adalah bagian backend dari aplikasi Narabaca, dibangun menggunakan Node.js dan PostgreSQL, serta menggunakan layanan cloud database dari Aiven.
